@@ -1,4 +1,4 @@
-Welcome to VTON.Unfold24, a project that brings immersive 3D virtual try-on functionality to e-commerce platforms! This repository leverages the Okto API to power a seamless 3D experience for trying on clothing virtually.
+Welcome to VTON.Unfold24, a project that brings immersive 3D virtual try-on functionality to e-commerce platforms! This repository leverages the Okto API to power a seamless 3D experience for trying on clothing virtually.In this repo ,we have included only okto API integration with Virtual Trial On ,for 3D Virtual Trial On project ,pls use my previous repo i.e https://github.com/Harshith-05/AI-VTON.git,(its easy to run this software ,just repo and run index.html )
 
 Features
 Realistic 3D Models: Generate accurate 3D avatars based on user inputs.
